@@ -1,4 +1,7 @@
 You need to have:
-Jupyter Notebook
-Anaconda Prompt
-Pycharm or Spyder
+
+1)Jupyter Notebook
+
+2)Anaconda Prompt
+
+3)Pycharm or Spyder
